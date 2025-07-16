@@ -1,0 +1,29 @@
+# ----------------------------------------------------
+# CONTEÚDO PARA O ARQUIVO .gitignore
+# ----------------------------------------------------
+
+# Ignorar arquivos de dados
+# Adicionados CSV e os formatos de Excel (.xls, .xlsx)
+*.csv
+*.xls
+*.xlsx
+
+# Ignorar arquivos de ambiente virtual do Python
+/venv/
+/env/
+/py_env/
+
+# Ignorar pastas de cache e arquivos compilados do Python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar pastas de configuração de editores de código
+.vscode/
+.idea/
+
+# Ignorar arquivos de sistema operacional
+.DS_Store
+Thumbs.db

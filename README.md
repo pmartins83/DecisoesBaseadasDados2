@@ -1,6 +1,8 @@
 # DecisoesBaseadasDados2
 Entrega de Trabalho Aplicado de Decisões Baseadas em Dados 2
 
+# MUITO IMPORTANTE: LEIA O ARQUIVO "ReadMe - Apresentação_Trab Aplicado_rev1" antes de avaliar os códigos
+
 # O Projeto
 
 Objetivo:
